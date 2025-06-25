@@ -1,3 +1,3 @@
 # mobile_app_1
 
-A new Flutter project.
+In this project I made a simple mobile app UI using flutter
